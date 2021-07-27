@@ -49,4 +49,3 @@ jobs:
         with: 
           github_token: ${{ secrets.GITHUB_TOKEN }}
           issue_number: ${{ github.event.issue.number }}
-{"mode":"full","isActive":false}
